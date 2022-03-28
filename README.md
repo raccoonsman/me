@@ -20,6 +20,6 @@
 
 
 
-## design
+## esign
 게임에 필요한 아이템, 스킬, 광물들을 제작합니다!<br/>
 ![image](https://user-images.githubusercontent.com/95516351/160401882-a7009d61-c4b5-4062-a910-f6d728addc3a.png)
